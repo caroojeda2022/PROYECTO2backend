@@ -9,7 +9,8 @@ Guardar el archivo .env.example como .env y cubrir los datos necesarios.
 Ejecutar npm run initDB para crear las tablas necesarias en la base de datos anteriormente creada.
 Ejecutar npm run dev o npm start para lanzar el servidor.
 Entidades en la base de datos
-[User] - Puede ser de tipo "Anónimo" o Usuario registrado (funciona como tipo administrador? único que puede cambiar estatus de las notas de privadas a públicas)
+[User] - Puede ser de tipo "Anónimo" o Usuario registrado 
+(funciona como tipo administrador? porque sabemos que el único que puede cambiar estatus de las notas de privadas a públicas)
 
 login
 email
