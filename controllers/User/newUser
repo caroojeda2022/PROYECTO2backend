@@ -1,0 +1,18 @@
+const insertUserQuery = require('../../db/userQueries/insertUserQuery');
+
+const newUser = async (req, res, next) => {
+    try {
+        const { name } = req.body;
+
+        await insertUserQuery(name);
+
+        res.send({
+            status: 'ok',
+            message: 'Usuario creado',
+        });
+    } catch (err) {
+        next(err);
+    }
+};
+
+module.exports = newUser;
