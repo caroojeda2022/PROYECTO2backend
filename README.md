@@ -1,9 +1,6 @@
-# 2do. Proyecto 
+# 2do. Proyecto Hack a Boss
 
-Aplicación de notas de texto
-PROYECTO2-BackEnd
-
-Este ejercicio consiste en crear una API que permita publicar notas privadas de texto y sus categorías, 
+API que permite publicar notas privadas de texto y categorizarlas: crear una API que permita publicar notas privadas de texto y sus categorías, 
 modificando su carácter privado o público y sus categorias
 
 Instalar
