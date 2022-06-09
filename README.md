@@ -1,7 +1,7 @@
 # 2do. Proyecto Hack a Boss
 
-API que permite publicar notas privadas de texto y categorizarlas: crear una API que permita publicar notas privadas de texto y sus categorías, 
-modificando su carácter privado o público y sus categorias
+API que permite publicar notas privadas de texto y categorizarlas: crear una API que permita publicar notas privadas de texto 
+modificando su carácter privado o público y categorias internas.
 
 Instalar
 Crear una base de datos vacía en una instancia de MySQL local.
